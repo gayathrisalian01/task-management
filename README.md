@@ -1,6 +1,4 @@
-#Link to the video 
 
-[Uploading React App - Google Chrome 2024-01-08 11-27-31.mp4…](https://github.com/gayathrisalian01/task-management/assets/141249949/bab89b06-a515-4a55-87ee-8a8d8eb21a6d)
 
 # Getting Started with Create React App
 
